@@ -1,0 +1,117 @@
+title:Raid Exception
+
+// Dragon's Breath ()
+dimwishlist:item=17096506&perks=
+
+
+// Zaouli's Bane ()
+dimwishlist:item=431721920&perks=64866129,2675184851
+dimwishlist:item=431721920&perks=64866129,4293542123
+dimwishlist:item=431721920&perks=3038247973,2675184851
+dimwishlist:item=431721920&perks=3038247973,4293542123
+
+
+// Deliverance ()
+dimwishlist:item=768621510&perks=344235611
+dimwishlist:item=768621510&perks=2978966579
+
+
+// Cataclysmic ()
+dimwishlist:item=999767358&perks=1354429876,3744057135
+dimwishlist:item=999767358&perks=1354429876,3078487919
+dimwishlist:item=999767358&perks=848860060,3744057135
+dimwishlist:item=999767358&perks=848860060,3078487919
+
+
+// Gjallarhorn ()
+dimwishlist:item=1363886209&perks=
+
+
+// Briar's Contempt ()
+dimwishlist:item=1491665733&perks=461595545,781192741
+dimwishlist:item=1491665733&perks=461595545,3708227201
+dimwishlist:item=1491665733&perks=1523832109,781192741
+dimwishlist:item=1491665733&perks=1523832109,3708227201
+
+
+// Apex Predator ()
+dimwishlist:item=1851777734&perks=461595545,3078487919
+dimwishlist:item=1851777734&perks=461595545,3744057135
+dimwishlist:item=1851777734&perks=1523832109,3078487919
+dimwishlist:item=1851777734&perks=1523832109,3744057135
+
+
+// Whisper of the Worm ()
+dimwishlist:item=1891561814&perks=
+
+
+// Caretaker ()
+dimwishlist:item=2508948099&perks=1749209109,781192741
+dimwishlist:item=2508948099&perks=1749209109,3708227201
+dimwishlist:item=2508948099&perks=4085959009,781192741
+dimwishlist:item=2508948099&perks=4085959009,3708227201
+
+
+// Scatter Signal ()
+dimwishlist:item=2558925366&perks=3422796781,2594592626
+dimwishlist:item=2558925366&perks=3422796781,2037312142
+dimwishlist:item=2558925366&perks=923806249,2594592626
+dimwishlist:item=2558925366&perks=923806249,2037312142
+
+
+// Leviathan's Breath ()
+dimwishlist:item=2591746970&perks=
+
+
+// Thunderlord ()
+dimwishlist:item=3325463374&perks=
+
+
+// The Eremite ()
+dimwishlist:item=3347946548&perks=968510818,2037312142
+dimwishlist:item=3347946548&perks=968510818,2594592626
+dimwishlist:item=3347946548&perks=424370782,2037312142
+dimwishlist:item=3347946548&perks=424370782,2594592626
+
+
+// Bequest ()
+dimwishlist:item=3366545721&perks=1749209109,781192741
+dimwishlist:item=3366545721&perks=1749209109,3708227201
+dimwishlist:item=3366545721&perks=4085959009,781192741
+dimwishlist:item=3366545721&perks=4085959009,3708227201
+
+
+// Conditional Finality ()
+dimwishlist:item=3371017761&perks=
+
+
+// Death's Razor ()
+dimwishlist:item=3371413056&perks=4085959009,147913470
+
+
+// Goldtusk ()
+dimwishlist:item=3371413057&perks=4085959009,147913470
+
+
+// Indebted Kindness ()
+dimwishlist:item=3381450498&perks=2859149211,2173046394
+dimwishlist:item=3381450498&perks=2859149211,3673922083
+dimwishlist:item=3381450498&perks=1556840489,2173046394
+dimwishlist:item=3381450498&perks=1556840489,3673922083
+
+
+// The Lament ()
+dimwishlist:item=3487253372&perks=
+
+
+// Buried Bloodline ()
+dimwishlist:item=3886719505&perks=
+
+
+// Commemoration ()
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=1523832109,288411554
+dimwishlist:item=4230965989&perks=461595545,3425386926
+dimwishlist:item=4230965989&perks=461595545,288411554
+
+
